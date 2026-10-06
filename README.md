@@ -32,7 +32,7 @@ Passionné par l'administration système, les réseaux informatiques et la virtu
 
 *Voici les environnements que je conçois et administre pour valider mes acquis :*
 
-- 🏢 **[Windows Server 2022 Enterprise Infrastructure Lab](REMPLACE_PAR_LE_LIEN_DU_REPO)** *(Terminé)*
+- 🏢 **[Windows Server 2022 Enterprise Infrastructure Lab](https://github.com/yassinehaddar3/Windows-Server-2022-Enterprise-Lab/tree/main)** *(Terminé)*
   *Déploiement complet d'une infrastructure : AD DS, DNS, DHCP, sécurisation par GPO, File Server avec permissions NTFS/SMB avancées, automatisation PowerShell, et Windows Server Backup.*
 - 🌐 **Enterprise Network Lab (Cisco Packet Tracer)** *(En cours)*
 - 🐧 **Linux Server Lab** *(À venir)*
